@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Generate the structure of a sbx project",
   "homepage": "",
+  "readme": "README.md",
   "author": {
     "name": "Carlos De Los Reyes",
     "email": "carlos@socobox.co",

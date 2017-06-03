@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Carlos De Los Reyes",
+      "authorEmail": "carlos@socobox.co",
+      "authorUrl": ""
+    }
+  }
+}
